@@ -1,6 +1,3 @@
-# my_VR_image
-# A-Frame Project
+# Hi Jolanta, please, click the next link to see the 3d sphere replaced by a 3d purple ring:
 
-Built with [A-Frame](https://aframe.io), a web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, desktop, mobile platforms.
-
-Click and drag on desktop. Open it on a smartphone and use the device motion sensors. Or [plug in a VR headset](https://webvr.rocks)!
+                                           https://3d-ring-by-ignacio.glitch.me/
